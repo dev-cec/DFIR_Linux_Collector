@@ -191,7 +191,7 @@ Uncompressing orc  100%
 ### Browser
 
 | Command / File | Json | Text | Raw |
-|---|---|---|---|---|
+|---|---|---|---|
 | Firefox | ✓ | --- | --- |
 | Google Chrome | ✓ | --- | --- |
 | Chromium | ✓ | --- | --- |
@@ -199,7 +199,7 @@ Uncompressing orc  100%
 ### Applications
 
 | Command / File | Json | Text | Raw |
-|---|---|---|---|---|
+|---|---|---|---|
 | FileZilla (servers.xml, recentservers.xml) | ✓ | --- | ✓ |
 | Zeitgeist (last 200 activities) | ✓ | --- | --- |
 | Developer history (.mysql, .psql, .sqlite, .nano, .lesshst, .wget-hsts, .bashrc) | ✓ | --- | ✓ |
