@@ -9,6 +9,8 @@ Stand-alone collecting tools for GNU/Linux
 - RAM dump with AVML (ref to compatibility https://github.com/microsoft/avml#tested-distributions)
 - The result is a compressed archive and a checksum file
 
+Reférence : https://github.com/xophidia/DFIR_Linux_Collector
+
 ---
 
 ## Architecture
